@@ -1,0 +1,13 @@
+categories:
+  - name: Home & Tax
+    description: spese per la casa e tasse (bollette, mobili, accessori di prima necessità)
+  - name: Transport
+    description: benzina, parcheggio, meccanico auto e riparazioni, pedaggi, biglietti e abbonamenti mezzi pubblici
+  - name: Grocery + Essentials
+    description: cibo e accessori essenziali
+  - name: Essential Clothes & Books
+    description: vestiti e libri
+  - name: Extra
+    description: tutto ciò che non rientra nelle altre categorie e che non è essenziale. Se non sai in che categoria inserire una spesa, inseriscila qui (tempo libero, viaggi, software, netflix, spotify, giochi, hobby)
+  - name: Health
+    description: spese mediche, medicine e cura della persona

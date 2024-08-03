@@ -1,0 +1,14 @@
+Categorize and sort the following expenses into appropriate categories.
+Return the result as an array of arrays.
+The expense objects must be ordered in the same order as the input list.
+Expenses:
+{expenses}
+Example of the desired output format:
+[
+  ["spesa", "Groceries & Essentials", 30],
+  ["Benzina", "Transport", 50]
+]
+Make sure to use appropriate categories for the provided expenses.
+The categories to use are as follows:
+{categories}
+Return only the array, do not add any additional text to the response like "Here is the sorted and categorized array:" or similar.
